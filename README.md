@@ -1,5 +1,7 @@
 # JavaSE-9.If_TernaryOperator
 
+See the Udemy course: https://www.udemy.com/course/curso-certificacion-profesional-desarrollador-java-se-11
+
 In Java, the if statement is used for conditional branching, and the ternary operator (? :) provides a concise way to express a simple conditional operation. Let me show you examples of both.
 
 ## 1. if statement
